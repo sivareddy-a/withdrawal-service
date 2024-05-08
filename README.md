@@ -14,7 +14,9 @@ Once the application runs successfully, you can find the API documentation [here
 **API overview :** 
 1. `user-controller` helps setup user accounts and CRUD operations for the same.
 2. `transaction-controller`
+
      /transactions/withdrawl - makes a transfer from user's account to a wallet. It talks to WithdrawalService for approval
+   
      /transactions/transfer - used for account-to-account transfer
 
 **Data Model**
