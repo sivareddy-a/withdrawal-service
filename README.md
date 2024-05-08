@@ -19,11 +19,12 @@ Once the application runs successfully, you can find the API documentation [here
 
 **Data Model**
 
-![Screenshot 2024-05-08 at 12.21.38 AM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F19%2F_sspn4ln0kn9xfp8qgynskrw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_bmtMJP%2FScreenshot%202024-05-08%20at%2012.21.38%20AM.png)
+<img width="1031" alt="Screenshot 2024-05-09 at 4 45 13 AM" src="https://github.com/sivareddy-a/withdrawal-service/assets/41261348/8cbd1d7e-9e01-4751-9c9d-a837b097551e">
 
 **Unit Testing**
 
 Unit tests are available under src/test/java
+
 class : TransactionServiceTest
 Tests : 
 1. testWithdrawalsSimple
